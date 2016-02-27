@@ -1,0 +1,18 @@
+const con1=1,con2=2,con3=1.2,con4=2.5,con5='a';
+var v1,v2:integer;
+      v3,v4:char;
+      v5,v6:real;
+      s1:array[5] of integer;
+function minus(var a,b:integer):integer;
+begin
+minus:=a-b;
+minus:=a+b;
+end;
+begin
+s1[ ]:=1;
+s1[:=2;
+s1:=3;
+write("  ",s1[0]);
+write("  ",s1[1]);
+write("  ",s1[2]);
+end.

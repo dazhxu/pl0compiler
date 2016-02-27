@@ -1,0 +1,15 @@
+var x,y,z:integer;
+function fab(n:integer):integer;
+begin
+if n>1 then
+fab:=fab(n-1)+fab(n-2)
+else
+if n=1 then
+fab:=1
+else
+fab:=0;
+end
+begin
+z:=fab(10);
+write(z);
+end.

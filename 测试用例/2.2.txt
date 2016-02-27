@@ -1,0 +1,10 @@
+const con1=1,con2=-1,con3=+1.2,con4=0.1,con5='a'
+var b:integer;
+begin
+write(con1);
+write("   ",con2);
+write("   ",con3);
+write("   ",con4);
+write("   ",con5);
+end.
+

@@ -1,0 +1,8 @@
+var b:integer;
+const a=1;
+
+begin
+write("This is program!  ");
+write(a);
+end.
+

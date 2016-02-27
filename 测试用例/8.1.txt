@@ -1,0 +1,15 @@
+const con1=1,con2=2,con3=1.2,con4=2.5,con5='a';
+var v1,v2:integer;
+      v3,v4:char;
+      v5,v6:real;
+      s1:array[5] of integer;
+begin
+v2:=0;
+for v1:=0 to 100 do
+v2:=v2+v1;
+write("  ",v2);
+v2:=0;
+for v1:=100 downto 2 do
+v2:=v2+v1;
+write("  ",v2);
+end.

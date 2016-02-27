@@ -1,0 +1,13 @@
+const con1=1,con2=2,con3=1.2,con4=2.5,con5='a';
+var v1,v2:integer;
+      v3,v4:char;
+      v5,v6:real;
+      s1:array[5] of integer;
+begin
+v1:=-con1;
+write(v1);
+v1:=con1+con2;
+write("  ",v1);
+v1:=con1*con2-con1/con2;
+write(" ",v1);
+end.

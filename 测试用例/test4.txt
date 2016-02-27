@@ -1,0 +1,5 @@
+var x,y:integer;
+s:array [5] of integer;
+begin
+s[0]:=2;
+end.

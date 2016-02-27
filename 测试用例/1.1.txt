@@ -1,0 +1,19 @@
+const a=1;
+var b:integer;
+procedure swap();
+begin
+write("This is procedure swap!  ");
+end;
+function add():char;
+begin
+write("This is function add!  ");
+add:=2;
+add:=5;
+end;
+begin
+write("This is program!  ");
+swap();
+b:=add();
+write(b);
+end.
+

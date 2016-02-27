@@ -1,0 +1,21 @@
+const a=1;
+var v1,v2:  ;
+      v3,v4:char;
+      v5,v6:real;
+      v7,v10:array[5] of integer;
+      v8:array[4] of ;
+      v9:array[3] of real; 
+procedure swap();
+begin
+write("This is procedure swap!  ");
+end;
+function add():integer;
+begin
+write("This is function add!  ");
+add:=2;
+end;
+begin
+write("This is program!  ");
+swap();
+end.
+

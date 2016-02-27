@@ -1,0 +1,19 @@
+const con1=1,con2=2,con3=1.2,con4=2.5,con5='a';
+var v1,v2:integer;
+      v3,v4:char;
+      v5,v6:real;
+      s1:array[5] of integer;
+begin
+if con1>con2 
+write(con1)
+else;
+if con1=con2 then
+else
+write(con2);
+if con1<>con2 then
+else
+;
+if con1<=con2 then
+write(con1)
+write(con2);
+end.

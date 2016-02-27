@@ -1,0 +1,13 @@
+源程序:
+1: var head,n;
+2: const z = 0;
+3: begin
+4:   n := z;
+5:   read(head);
+6:   while n <= head do
+7:     begin   
+8:       n := n+1;
+9:     end;
+10:   write(n)
+11: end.
+程序结束!

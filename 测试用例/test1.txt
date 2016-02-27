@@ -1,0 +1,16 @@
+const a1=1,a2=-2,a3='s';
+var b1,b2:integer;
+      s:array[5] of integer;
+function swap1(var c1,c2:integer;d1:char):integer; 
+begin
+   b1;
+   c1;
+   l;
+end
+procedure swap(var c1,c2:integer;d1:char); 
+begin
+  ;
+end
+begin
+ ;
+end.
